@@ -43,10 +43,6 @@ article, header{
     align-items: flex-start; 
 }
 
-.section__fifth{
-    display: flex; 
-    flex-flow: row wrap; 
-}
 
 .article__order{
     order: 1; 
@@ -54,10 +50,4 @@ article, header{
 
 .article__grow{
     flex-grow: 1;
-}
-
-.cub{
-    background-color: aqua;
-    width: 200px;
-    height: 300px;
 }
